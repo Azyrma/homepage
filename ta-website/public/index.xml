@@ -5,6 +5,41 @@
         <link>http://localhost:1313/~smills/</link>
         <description>Recent content on Severin Mills</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/~smills/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/~smills/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Information Retrieval</title>
+        <link>http://localhost:1313/~smills/p/hello-world/</link>
+        <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/~smills/p/hello-world/</guid>
+        <description>&lt;h1 id=&#34;week-1&#34;&gt;Week 1
+&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/~smills/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/~smills/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:1313/~smills/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/~smills/links/</guid>
+        <description>&lt;p&gt;Here is a link collection.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/~smills/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/~smills/search/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

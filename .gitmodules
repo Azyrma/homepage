@@ -4,3 +4,6 @@
 [submodule "ta-website/themes/hugo-theme-stack"]
 	path = ta-website/themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
+[submodule "ta-website/themes/themes/hugo-theme-stack-starter"]
+	path = ta-website/themes/themes/hugo-theme-stack-starter
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter.git
