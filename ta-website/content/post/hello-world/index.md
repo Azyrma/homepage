@@ -11,4 +11,5 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# Week 1
+> Welcome to Information Retrieval! This is the administration page for my exercise session in Information Retrieval. I will upload the slides, kahoots and other information here. If you notice any mistakes or typos, please contact me by email (click on the icon under my picture).
+# Organisatorial
