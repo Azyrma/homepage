@@ -1,4 +1,0 @@
-baseURL = 'https://n.ethz.ch/~smills/'
-languageCode = 'en-us'
-title = 'Severin Mills'
-theme = 'hugo-theme-stack'
