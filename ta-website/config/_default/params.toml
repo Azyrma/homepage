@@ -24,7 +24,7 @@ src = "img/avatar.jpg"
 [article]
 headingAnchor = false
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
 enabled = false
@@ -45,7 +45,6 @@ type = "categories"
 
 [widgets.homepage.params]
 limit = 10
-
 
 [[widgets.page]]
 type = "toc"
@@ -71,7 +70,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
