@@ -21,4 +21,20 @@ name = "E-Mail"
 url = "mailto:severin.mills@vis.ethz.ch"
 
 [social.params]
-icon = "messages"
+icon = "mail"
+
+[[social]]
+identifier = "LinkedIn"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/severin-mills-4b9609220/"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "Discord"
+name = "Discord"
+url = "https://discord.gg/EGunWd3S"
+
+[social.params]
+icon = "brand-discord"
