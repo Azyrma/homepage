@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/~smills/p/welcome/</loc>
+    <loc>https://n.ethz.ch/~smills/p/welcome/</loc>
   </url><url>
-    <loc>http://localhost:1313/~smills/</loc>
+    <loc>https://n.ethz.ch/~smills/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~smills/post/</loc>
+    <loc>https://n.ethz.ch/~smills/post/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~smills/page/</loc>
+    <loc>https://n.ethz.ch/~smills/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/~smills/categories/</loc>
+    <loc>https://n.ethz.ch/~smills/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/~smills/categories/fs25/</loc>
+    <loc>https://n.ethz.ch/~smills/categories/fs25/</loc>
   </url><url>
-    <loc>http://localhost:1313/~smills/infret/</loc>
+    <loc>https://n.ethz.ch/~smills/infret/</loc>
   </url><url>
-    <loc>http://localhost:1313/~smills/links/</loc>
+    <loc>https://n.ethz.ch/~smills/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/~smills/search/</loc>
+    <loc>https://n.ethz.ch/~smills/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/~smills/tags/</loc>
+    <loc>https://n.ethz.ch/~smills/tags/</loc>
   </url>
 </urlset>
