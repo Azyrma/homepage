@@ -10,6 +10,7 @@ menu:
         weight: 1
         params: 
             icon: database
+draft: true
 ---
 
 ## General Information
